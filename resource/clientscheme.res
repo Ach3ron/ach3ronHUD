@@ -2976,6 +2976,39 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		ArialBlackRegluar32
+		{
+			"1"
+			{
+				"name"		"Arial Black"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		ArialBlackRegluar40
+		{
+			"1"
+			{
+				"name"		"Arial Black"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		ArialBlackRegluar48
+		{
+			"1"
+			{
+				"name"		"Arial Black"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	//Custom Fonts
