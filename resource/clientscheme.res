@@ -2943,7 +2943,45 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+		
+		ArialBlackRegluar12
+		{
+			"1"
+			{
+				"name"		"Arial Black"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		ArialBlackRegluar16
+		{
+			"1"
+			{
+				"name"		"Arial Black"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		ArialBlackRegluar24
+		{
+			"1"
+			{
+				"name"		"Arial Black"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
 	}
+	
+	//Custom Fonts
+	
+	
+	
 
 	//
 	//////////////////// BORDERS //////////////////////////////
@@ -5473,5 +5511,12 @@ Scheme
 			}
 		}			
 		"7" "resource/ocra.ttf"
+		
+		"8"
+		{
+		"font" "resource/fonts/Arial_Black_Regular"
+		"name" "Arial Black"
+		
+		}
 	}
 }
