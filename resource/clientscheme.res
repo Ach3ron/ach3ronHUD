@@ -3009,6 +3009,72 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		ArialRegluar12
+		{
+			"1"
+			{
+				"name"		"Arial"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		ArialRegluar16
+		{
+			"1"
+			{
+				"name"		"Arial"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		ArialRegluar24
+		{
+			"1"
+			{
+				"name"		"Arial"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		ArialRegluar32
+		{
+			"1"
+			{
+				"name"		"Arial"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		ArialRegluar40
+		{
+			"1"
+			{
+				"name"		"Arial"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		ArialRegluar48
+		{
+			"1"
+			{
+				"name"		"Arial"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	//Custom Fonts
@@ -5549,7 +5615,12 @@ Scheme
 		{
 		"font" "resource/fonts/Arial_Black_Regular"
 		"name" "Arial Black"
+		}
 		
+		"9"
+		{
+		"fonts" "resource/fonts/arial
+		"name" 	"Arial"
 		}
 	}
 }
